@@ -41,6 +41,5 @@ Here, In this template you will learn how to List and Delete Azure VM using Azur
 
 5. After Deleting the VM :
 
-![linuxvm-deleted.png](assets%2Flinuxvm-deleted.png)
-
+![vm-deleted.png](assets/vm-deleted.png)
 ---
